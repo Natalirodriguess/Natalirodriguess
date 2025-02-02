@@ -1,4 +1,5 @@
 ### Olá! Eu sou a Natalí Rodrigues ✋
+#### Você pode me encontrar pelos seguintes meios:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natali-rodrigues/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@natali-rodriguess/)
 
