@@ -22,7 +22,7 @@ Atualmente tenho habilidades em  testes de software, especificamente testes em A
 Amo o mundo backend e tenho muita familiaridade com as principais ferramentas citadas no campo de tecnologia acima. <br/>
 Nesses últimos dias, me aventurei em explorar também o mundo frontend, com testes de ponta a ponta, utilizando a ferramenta Cypress. 
 Estou amando descobrir e conhecer coisas novas. Estarei sempre atualizando meus repositórios para te possibilitar acompanhar minha evolução nos aprendizados.</br>
-Meus **hobbies** nas horas vagas são: leitura (amo ler um romance, nacional ou inter), música (gosto muito de ouvir, cantar e compor minhas próprias músicas), brincar com meus gatinhos 🐈 e assistir vídeos e ler artigos sobre como determinada coisa foi descoberta ou como funciona (um exemplo disso é que me pergunto as vezes como é que a gente digita no teclado e a energia mecânica passa para a elétrica e assim o software apresenta nossa querida letra na tela kkkk ~obs: já encontrei a resposta! rsrs). 
+Meus **hobbies** nas horas vagas são: leitura (amo ler um romance, nacional ou inter), música (gosto muito de ouvir, cantar e compor minhas próprias músicas), brincar com meus gatinhos 🐈 e assistir vídeos e ler artigos sobre como determinada coisa foi descoberta ou como funciona.
 
 ## Minhas Principais características
 Sou bastante proativa, comunicativa, lógica e busco sempre melhorar a forma como desempenho determinada atividade, a fim de agilizar e aumentar a qualidade dos meus resultados.
