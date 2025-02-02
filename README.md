@@ -15,4 +15,13 @@
 <img align="center" alt = "html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
+## Mais sobre mim 
+Tenho 24 anos, nascida no interior de Pernambuco, apaixonada por ciência e conhecimento! 
+Possuo formação em matemática e realizei transição de carreira para a área de tecnologia👩‍💻 no ano de 2023.
+Atualmente tenho habilidades em  testes de software, especificamente testes em APIs Rest construiídas com Java e framework SpringBoot.
+Amo o mundo backend e tenho muita familiaridade com as principais ferramentas citadas no campo de tecnologia. 
+Nesses últimos dias, me aventurei em explorar também o mundo frontend, com testes de ponta a ponta, utilizando a ferramenta Cypress. 
+Estou amando descobrir e conhecer coisas novas. Estarei sempre atualizando meus repositórios para te possibilitar acompanhar minha evolução nos aprendizados.
 
+## Minhas Principais características
+Sou bastante proativa, comunicativa, lógica e busco sempre melhorar a forma como desempenho determinada atividade, a fim de agilizar e aumentar a qualidade dos meus resultados.
