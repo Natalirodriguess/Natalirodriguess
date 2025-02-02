@@ -17,7 +17,7 @@
 
 ## Mais sobre mim 
 Tenho 24 anos, nascida no interior de Pernambuco, apaixonada por ciência e conhecimento!<br/>
-Possuo formação em matemática e realizei transição de carreira para a área de tecnologia👩‍💻 no ano de 2023.<br/>
+Formada em licenciatura em matemática, realizei transição de carreira para a área de tecnologia👩‍💻 no ano de 2023, cursando Ciência da Computação.<br/>
 Atualmente tenho habilidades em  testes de software, especificamente testes em APIs Rest construiídas com Java e framework SpringBoot.
 Amo o mundo backend e tenho muita familiaridade com as principais ferramentas citadas no campo de tecnologia acima. <br/>
 Nesses últimos dias, me aventurei em explorar também o mundo frontend, com testes de ponta a ponta, utilizando a ferramenta Cypress. 
