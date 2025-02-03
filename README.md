@@ -3,7 +3,17 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natali-rodrigues/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@natali-rodriguess/)
 
-![Natali GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalirodriguess&show_icons=true&theme=radical)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Natalirodriguess&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Natalirodriguess&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Natalirodriguess&show_icons=true" />
+</picture>
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
