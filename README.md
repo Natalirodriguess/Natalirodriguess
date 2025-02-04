@@ -23,7 +23,7 @@
 <img align="center" alt = "html5" src="https://img.shields.io/badge/Postman-ff8c00?style=for-the-badge&logo=postman&logoColor=white">
 <img align="center" alt = "html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img align="center" alt = "html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img align="center" alt = "html5" src="https://img.shields.io/badge/Cucumber-21c235?style=for-the-badge&logo=cucumber&logoColor=white"> <br/>
+<img align="center" alt = "html5" src="https://img.shields.io/badge/Cucumber-21c235?style=for-the-badge&logo=cucumber&logoColor=white">
 <img align="center" alt = "html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
