@@ -39,4 +39,3 @@ Meus **hobbies** nas horas vagas são: leitura (amo ler um romance, nacional ou 
 
 ## Minhas Principais características
 Sou bastante proativa, comunicativa, lógica e busco sempre melhorar a forma como desempenho determinada atividade, a fim de agilizar e aumentar a qualidade dos meus resultados.
-
