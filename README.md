@@ -30,7 +30,7 @@
 </div>
 
 ## Mais sobre mim 
-Tenho 24 anos de idade, nascida no interior de Pernambuco e sou apaixonada por ciência e conhecimento!<br/>
+Tenho 25 anos de idade, nascida no interior de Pernambuco e sou apaixonada por ciência e conhecimento!<br/>
 Formada em licenciatura em matemática, realizei transição de carreira para a área de tecnologia👩‍💻 no ano de 2023, cursando Ciência da Computação.<br/>
 Atualmente tenho habilidades em  testes de software, especificamente testes em APIs Rest construiídas com Java e framework SpringBoot.
 Amo o mundo backend e tenho muita familiaridade com as principais ferramentas citadas no campo de tecnologia acima. <br/>
